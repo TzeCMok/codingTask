@@ -1,4 +1,3 @@
-# codingTask
 This section showcases key projects highlighting specific skills and challenges overcome.
 
 1. Python OOP: Email Program
